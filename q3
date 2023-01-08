@@ -10,10 +10,3 @@ for e in list1:
 # Printing the final result
 print("\nList containing (n,n^2) is shown below:")
 print(list2)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
